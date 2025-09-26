@@ -1,0 +1,26 @@
+{
+  "Utxjxz": {
+    "state": "idle",
+    "startedAt": 1754957376098,
+    "processed": 287,
+    "accountId": "Utxjxz",
+    "lastPageSize": 87,
+    "finishedAt": 1754957380166
+  },
+  "VZdSUY": {
+    "state": "idle",
+    "startedAt": 1754957538791,
+    "processed": 30446,
+    "accountId": "VZdSUY",
+    "lastPageSize": 46,
+    "finishedAt": 1754958134996
+  },
+  "Yh7xRe": {
+    "state": "idle",
+    "startedAt": 1754957600176,
+    "processed": 20,
+    "accountId": "Yh7xRe",
+    "lastPageSize": 20,
+    "finishedAt": 1754957600865
+  }
+}
